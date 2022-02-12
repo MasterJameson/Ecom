@@ -1,0 +1,10 @@
+export const SELECTED_ITEM = 'SELECTED_ITEM'
+export const SHOW_COMPONENT = 'SHOW_COMPONENT'
+export const ADDTO_CART = 'ADDTO_CART'
+export const CLEAR_ITEM = 'CLEAR_ITEM'
+export const DELETE_ITEM = 'DELETE_ITEM'
+export const SORT_SIZE = 'SORT_SIZE'
+export const SORT_LIST = 'SORT_LIST'
+export const SORT_STATE = 'SORT_STATE'
+export const CLEAR_CART = 'CLEAR_CART'
+
